@@ -1,0 +1,15 @@
+
+	~~~~~~~~~~~~Borrowing Details~~~~~~~~~~~~~~
+	Borrower's name :- rihan
+	Interested Topic :- Science
+	Book name :- science
+	Book reference id is :- 10
+	Borrowing time :- 2021-03-13 13:12:06.305010
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	~~~~~~~~~~~~Borrowing Details~~~~~~~~~~~~~~
+	Borrower's name :- Wasi
+	Interested Topic :- Engineering
+	Book name :- The C Programming Language
+	Book reference id is :- 3
+	Borrowing time :- 2021-03-13 19:08:15.198704
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

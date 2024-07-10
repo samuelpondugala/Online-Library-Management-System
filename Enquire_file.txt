@@ -1,0 +1,17 @@
+
+	~~~~~~~~~~~~Enquiry Details~~~~~~~~~~~~~~
+Interested topic :- Engineering
+Enquire @ :- 2021-03-13 19:03:25.551841
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	~~~~~~~~~~~~Enquiry Details~~~~~~~~~~~~~~
+Interested topic :- Science
+Enquire @ :- 2021-03-13 19:06:35.974960
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	~~~~~~~~~~~~Enquiry Details~~~~~~~~~~~~~~
+Interested topic :- Engineering
+Enquire @ :- 2021-03-13 19:08:37.484831
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	~~~~~~~~~~~~Enquiry Details~~~~~~~~~~~~~~
+Interested topic :- Engineering
+Enquire @ :- 2021-03-13 19:09:21.065556
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

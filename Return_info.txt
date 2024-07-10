@@ -1,0 +1,11 @@
+
+	~~~~~~~~~~~~~~Return info~~~~~~~~~~~~~~~~~
+	Name of Borrower:- rihan
+	Name of Book:- science
+	Book Return on :- 2021-03-13 13:12:38.192577
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	~~~~~~~~~~~~~~Return info~~~~~~~~~~~~~~~~~
+	Name of Borrower:- Wasi
+	Name of Book:- The C Programming Language
+	Book Return on :- 2021-03-13 19:09:04.366191
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
